@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const Header = () => {
   return (
-    <header className="p-20 border border-yellow-400">
+    <header className="p-20 border border-blue-400">
       <ul className="flex space-x-4">
         <li>
           <Link href="/">Home</Link>
